@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "458781804553",
+    "firebase_url": "https://aplicativoflutter-9fbd5-default-rtdb.firebaseio.com",
+    "project_id": "aplicativoflutter-9fbd5",
+    "storage_bucket": "aplicativoflutter-9fbd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458781804553:android:c1028b54c81ccc7f1450d8",
+        "android_client_info": {
+          "package_name": "com.example.graeffeng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvtU8t1KKq_Lrn2AKgr_E05eKqqTEuc78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458781804553:android:ee2a641109057cb31450d8",
+        "android_client_info": {
+          "package_name": "com.example.primeiroprojeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvtU8t1KKq_Lrn2AKgr_E05eKqqTEuc78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
